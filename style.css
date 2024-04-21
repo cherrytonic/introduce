@@ -14,7 +14,7 @@ body {
     overflow: auto;
   }
 .container {
-  width: 90%;
+  width: 100%;
   margin:auto;
   height: 70vh; /* 여기서 vh는 viewport height의 1/100을 나타냅니다. 따라서 400vh는 브라우저 높이의 4배입니다. */
 }
